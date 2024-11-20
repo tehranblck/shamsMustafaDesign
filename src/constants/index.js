@@ -42,7 +42,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Game Artist.",
+    title: "Game Artist",
     icon: web,
   },
   {
@@ -50,11 +50,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Digital Artist",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "3D generalist",
     icon: creator,
   },
 ];
@@ -116,13 +116,13 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Digital artist ",
+    company_name: "7SOBStudio",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "I created my own NFT collection by following the latest trends.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
