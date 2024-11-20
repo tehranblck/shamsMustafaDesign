@@ -199,11 +199,11 @@ const projects = [
       "Border Patrol is a mobile shooter game designed for an American audience. The game focuses on defending the border by eliminating threats, with a storyline centered around protecting the nation from terrorist incursions. It offers engaging gameplay with a strong emphasis on strategy and action, providing players with an immersive experience.",
     tags: [
       {
-        name: "react",
+        name: "ShooterGame",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "BorderDefense",
         color: "green-text-gradient",
       },
       {
