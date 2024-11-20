@@ -40,18 +40,18 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>About me.</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I have been working in digital art since 2019. I started my career in the film industry as a 3D Generalist, and today I work as a Game Artist and Game Designer in both 3D and 2D fields.
+
+        In 3D, I am skilled across a broad range of areas, from modeling to animation. I have experience working in both realistic and cartoon styles, applying these to a variety of projects with success.
+
+        On the 2D side, I specialize in UI/UX design for games, illustrations, and the creation of other game assets. I take pride in offering creative and technical solutions tailored to the unique needs of each project.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
