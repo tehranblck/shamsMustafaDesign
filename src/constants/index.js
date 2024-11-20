@@ -194,9 +194,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Border Patrol",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Border Patrol is a mobile shooter game designed for an American audience. The game focuses on defending the border by eliminating threats, with a storyline centered around protecting the nation from terrorist incursions. It offers engaging gameplay with a strong emphasis on strategy and action, providing players with an immersive experience.",
     tags: [
       {
         name: "react",
@@ -215,9 +215,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Hooligan",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Hooligan is a car simulation game tailored for the Azerbaijani audience. The game offers players an immersive experience of driving popular cars found in Azerbaijan across various local terrains and landscapes. With its focus on authenticity and cultural relevance, Hooligan captures the essence of Azerbaijani driving culture, providing a unique and engaging experience.",
     tags: [
       {
         name: "react",
@@ -236,9 +236,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Forest Survivor",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Forest Survivor is a mobile survival game that follows the journey of a small red panda as it defends the forest from goblins and various evil woodland creatures. The game combines action and strategy, challenging players to protect the forest while facing waves of enemies in a vibrant and engaging environment.",
     tags: [
       {
         name: "nextjs",
