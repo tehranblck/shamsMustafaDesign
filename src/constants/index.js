@@ -156,7 +156,7 @@ const experiences = [
     company_name: "85 Games Studio",
     icon: games,
     iconBg: "#E6DEDD",
-    date: "2024 deb - Present",
+    date: "2024 dec - Present",
     points: [
       "Designed the game concept in a 2D style and developed the entire art direction. Created the user interface, assets, and managed the entire art production pipeline.",
       "Designed the UI and UX, focusing on creating an intuitive and visually appealing experience.",
