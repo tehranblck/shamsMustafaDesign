@@ -26,9 +26,9 @@ import rog from "./rog.svg";
 import code from "./code.svg";
 import sob from "./7sob.svg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./border.png";
+import jobit from "./HOOLIGAN.png";
+import tripguide from "./forest.png";
 
 export {
   logo,

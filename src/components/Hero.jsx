@@ -22,7 +22,7 @@ const Hero = () => {
             I am a 2D/3D Game Artist   and<br className='sm:block hidden' /> Game Designer, bringing creativity<br className='sm:block hidden' />
             and life to your games through vibrant<br className='sm:block hidden' /> visuals and engaging designs.
 
-            interfaces<br className='sm:block hidden' /> and web applications
+
           </p>
         </div>
       </div>
