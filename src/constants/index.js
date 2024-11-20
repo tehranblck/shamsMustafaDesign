@@ -3,18 +3,18 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  typescript,
-  html,
-  css,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
-  docker,
+  photoshop,
+  aftereffects,
+  arnold,
+  charactercreator,
+  illustrator,
+  maya,
+  mediaencoder,
+  premiere,
+  roughanimator,
+  spine,
+  substance,
+  unity,
   meta,
   starbucks,
   tesla,
@@ -22,8 +22,9 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  blender,
 } from "../assets";
+
 
 export const navLinks = [
   {
@@ -58,59 +59,58 @@ const services = [
     icon: creator,
   },
 ];
-
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Adobe Photoshop",
+    icon: photoshop,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Adobe Illustrator",
+    icon: illustrator,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
+    name: "Blender",
+    icon: blender,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Autodesk Maya",
+    icon: maya,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Arnold Renderer",
+    icon: arnold,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "After Effects",
+    icon: aftereffects,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Unity",
+    icon: unity,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Premiere Pro",
+    icon: premiere,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Rough Animator",
+    icon: roughanimator,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Spine 2D",
+    icon: spine,
   },
   {
-    name: "git",
-    icon: git,
+    name: "Character Creator",
+    icon: charactercreator,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Media Encoder",
+    icon: mediaencoder,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Substance Painter",
+    icon: substance,
   },
 ];
 

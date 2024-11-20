@@ -1,8 +1,11 @@
 Model Information:
-* title:	Mitsubishi B2M2 - Game Art 1 Stylized Plane
-* source:	https://sketchfab.com/3d-models/mitsubishi-b2m2-game-art-1-stylized-plane-f1e14a5afe094b21b5019f335374a84a
-* author:	Pyush Chamoli (https://sketchfab.com/bladesides)
+* title:	An AI assistants cartoon design with joystick an
+* source:	https://sketchfab.com/3d-models/an-ai-assistants-cartoon-design-with-joystick-an-99a5d8c422e34948834116012a10bd0d
+* author:	klrxyz (https://sketchfab.com/klrxyz)
 
 Model License:
-* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
-* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "An AI assistants cartoon design with joystick an" (https://sketchfab.com/3d-models/an-ai-assistants-cartoon-design-with-joystick-an-99a5d8c422e34948834116012a10bd0d) by klrxyz (https://sketchfab.com/klrxyz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

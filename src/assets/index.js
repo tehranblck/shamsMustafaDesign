@@ -7,19 +7,19 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import photoshop from './tech/photoshop.png'
+import arnold from './tech/arnold.png'
+import aftereffects from './tech/aftereffects.png'
+import charactercreator from './tech/charactercreator.png'
+import illustrator from './tech/illustrator.png'
+import maya from './tech/maya.png'
+import mediaencoder from './tech/mediaencoder.png'
+import premiere from './tech/premiere.png'
+import roughanimator from './tech/roughanimator.png'
+import spine from './tech/spine.png'
+import substance from './tech/substance.png'
+import unity from './tech/unity.png'
+import blender from './tech/blender.png'
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -39,19 +39,19 @@ export {
   github,
   menu,
   close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
+  photoshop,
+  aftereffects,
+  arnold,
+  charactercreator,
+  illustrator,
+  blender,
+  maya,
+  mediaencoder,
+  premiere,
+  roughanimator,
+  spine,
+  substance,
+  unity,
   meta,
   shopify,
   starbucks,
