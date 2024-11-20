@@ -21,10 +21,10 @@ import substance from './tech/substance.png'
 import unity from './tech/unity.png'
 import blender from './tech/blender.png'
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import games from "./85games.svg";
+import rog from "./rog.svg";
+import code from "./code.svg";
+import sob from "./7sob.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,10 +52,10 @@ export {
   spine,
   substance,
   unity,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  rog,
+  sob,
+  code,
+  games,
   carrent,
   jobit,
   tripguide,

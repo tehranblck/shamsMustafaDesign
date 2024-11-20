@@ -15,10 +15,10 @@ import {
   spine,
   substance,
   unity,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  rog,
+  code,
+  sob,
+  games,
   carrent,
   jobit,
   tripguide,
@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Digital artist ",
     company_name: "7SOBStudio",
-    icon: starbucks,
+    icon: sob,
     iconBg: "#383E56",
     date: "2021 avgust - 2023 sept",
     points: [
@@ -130,7 +130,7 @@ const experiences = [
   {
     title: "3D Generalist",
     company_name: "ROG VFX Studio",
-    icon: tesla,
+    icon: rog,
     iconBg: "#E6DEDD",
     date: " 2022 oct- 2023 aprel",
     points: [
@@ -142,7 +142,7 @@ const experiences = [
   {
     title: "Game Artist",
     company_name: "Code Academy",
-    icon: shopify,
+    icon: code,
     iconBg: "#383E56",
     date: "2023 dec - Present",
     points: [
@@ -154,7 +154,7 @@ const experiences = [
   {
     title: "2D artist and UI designer",
     company_name: "85 Games Studio",
-    icon: meta,
+    icon: games,
     iconBg: "#E6DEDD",
     date: "2024 deb - Present",
     points: [
