@@ -220,15 +220,15 @@ const projects = [
       "Hooligan is a car simulation game tailored for the Azerbaijani audience. The game offers players an immersive experience of driving popular cars found in Azerbaijan across various local terrains and landscapes. With its focus on authenticity and cultural relevance, Hooligan captures the essence of Azerbaijani driving culture, providing a unique and engaging experience.",
     tags: [
       {
-        name: "react",
+        name: "CarSimulation",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "AzerbaijanDriving",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "AuthenticExperience",
         color: "pink-text-gradient",
       },
     ],
@@ -241,15 +241,15 @@ const projects = [
       "Forest Survivor is a mobile survival game that follows the journey of a small red panda as it defends the forest from goblins and various evil woodland creatures. The game combines action and strategy, challenging players to protect the forest while facing waves of enemies in a vibrant and engaging environment.",
     tags: [
       {
-        name: "nextjs",
+        name: "SurvivalGame",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "RedPandaAdventure",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "DefendTheForest",
         color: "pink-text-gradient",
       },
     ],
