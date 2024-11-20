@@ -120,7 +120,7 @@ const experiences = [
     company_name: "7SOBStudio",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "2021 avgust - 2023 sept",
     points: [
       "I created my own NFT collection by following the latest trends.",
       " The collection features character designs and lifestyle-themed items that reflect their unique stories.",
@@ -132,7 +132,7 @@ const experiences = [
     company_name: "ROG VFX Studio",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: " 2022 oct- 2023 aprel",
     points: [
       "In this project, I worked on creating 3D models for a film, including texturing and lighting tasks.",
       " I utilized tools such as Maya, Arnold Renderer, and Substance Painter to achieve high-quality results.",
@@ -144,7 +144,7 @@ const experiences = [
     company_name: "Code Academy",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "2023 dec - Present",
     points: [
       "Designed characters, created the user interface, and worked on 2D character animations.Took part in every aspect of development and successfully completed the project.",
       "Handled the entire 3D pipeline, including modeling, texturing, and animation. Delivered a polished game with engaging visuals and smooth gameplay.",
@@ -156,7 +156,7 @@ const experiences = [
     company_name: "85 Games Studio",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "2024 deb - Present",
     points: [
       "Designed the game concept in a 2D style and developed the entire art direction. Created the user interface, assets, and managed the entire art production pipeline.",
       "Designed the UI and UX, focusing on creating an intuitive and visually appealing experience.",
