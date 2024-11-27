@@ -145,7 +145,7 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
+  games,
   tesla,
   shopify,
   carrent,
